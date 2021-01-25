@@ -99,4 +99,129 @@ I hope you get an idea of why Python is getting so much popularity. For a growin
 But don’t worry, the following are carefully curated.
 
 
+## Documentations
+  - [Python Documentations](https://www.python.org/doc/)
 
+## Best Collection of Python Tutorials
+
+- [Learn Python Online](https://www.codementor.io/learn-python-online)
+- [Python Tutorials for Beginners and Programmers](https://www.codementor.io/python/tutorial)
+- [A Byte of Python](http://www.swaroopch.com/notes/python/)
+- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+- [Codecademy](http://www.codecademy.com/tracks/python)
+- [Dive Into Python 3](https://diveintopython3.problemsolving.io/)
+- [Ultimate Python study guide](https://github.com/huangsam/ultimate-python)
+- [Full Stack Python](http://www.fullstackpython.com/)
+- [import asyncio: Learn Python's AsyncIO](https://www.youtube.com/playlist?list=PLhNSoGM2ik6SIkVGXWBwerucXjgP1rHmB)
+- [Intermediate Python](http://book.pythontips.com/en/latest/)
+- [Learn Python in 10 minutes](http://www.stavros.io/tutorials/python/)
+- [Learn Python the Hard Way](http://learnpythonthehardway.org/book/)
+- [Non-Programmer's Tutorial for Python 3](http://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3)
+- [Python Practice Book](http://anandology.com/python-practice-book/index.html)
+- [Real Python (non-free)](https://realpython.com)
+- [Snakify, a tutorial with 100 exercises and a step-by-step debugger](https://snakify.org)
+- [SoloLearn Python 3 Course](https://www.sololearn.com/Course/Python/)
+- [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
+- [Think Python: How to Think Like a Computer Scientist](http://www.greenteapress.com/thinkpython/)
+- [Python Notes for Professionals book](http://books.goalkicker.com/PythonBook/)
+- [Quantitative Economics with Python](https://lectures.quantecon.org/py/)
+
+## Videos
+
+- [Carte-Blanche, a Django Permission Framework for Rapid Prototyping, with its creator, Eric Neuman ](https://www.codementor.io/officehours/6962831504/carte-blanche-a-django-permission-framework-for-rapid-prototyping-with-its-creator-eric-neuman)
+- [Introduction to Machine Learning & NLP: Building a Spam Classifier](https://www.codementor.io/officehours/1385095426/building-a-spam-classifier)
+- [Stack Overflow Legend Martijn Pieters: Python Optimization and How it Can Affect Your Code](https://www.codementor.io/officehours/9015644327/stack-overflow-legend-martijn-pieters-python-optimization-and-how-it-can-affect-your-code)
+- [Python Basic Tutorials by **SentDex**](https://www.youtube.com/playlist?list=PLQVvvaa0QuDdFqJtqsyeEewqVm_7VRrlD)
+- [Python 3.4 Programming Tutorials by **thenewboston**](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_)
+- [Python Programming Beginner Tutorials by **Corey Schafer**](https://www.youtube.com/playlist?list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7)
+- [Python3 for Beginners by **The Net Ninja**](https://www.youtube.com/playlist?list=PL4cUxeGkcC9idu6GZ8EU_5B6WpKTdYZbK)
+
+## Courses
+- [Live Python Class](https://www.codementor.io/classes/learn-python-live)
+- [MIT Introduction to Computer Science and Programming](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/)
+- [Programming for Everybody (Python)](https://www.coursera.org/course/pythonlearn)
+- [Google's Python Class](https://developers.google.com/edu/python/?hl=de-DE&csw=1)
+- [Lynda.com](http://www.lynda.com/Python-training-tutorials/415-0.html)
+- [Intro to Computer Science](https://www.udacity.com/course/ud036)
+- [Code School's Try Python](https://www.codeschool.com/courses/try-python)
+
+## Frameworks
+
+- Django
+    - [A Complete Beginner's Guide to Django](https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/)
+    - [Learn Django](https://overiq.com/django/1.11/intro-to-django/)
+    - [Django Crash Course](https://www.youtube.com/watch?v=D6esTdOLXh4)
+    - [Django For Beginners](https://djangoforbeginners.com/)
+    - [Django Girls Tutorial](http://tutorial.djangogirls.org/en/index.html)
+    - [Django Tutorial (Create a Blog) by **The Net Ninja**](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ib4HsrXEYpQnTOTZE1x0uc)
+    - [Django Tutorial - David Leonard](http://drksephy.github.io/2015/07/16/django/)
+    - [Getting Started with Django, a crash course](https://www.youtube.com/watch?v=KZHXjGP71kQ)
+    - [Go Django](https://godjango.com/)
+    - [Hello Web App (non-free) (book)](https://hellowebapp.com/)
+    - [Python Books](http://pythonbooks.org/)
+    - [Starting a Django Project](https://realpython.com/learn/start-django/)
+    - [Tango With Django](http://www.tangowithdjango.com/)
+    - [TaskBuster Django Tutorial](http://www.marinamele.com/taskbuster-django-tutorial)
+    - [Ultimate Django](https://ultimatedjango.com/learn-django/chapters/)
+- Flask
+    - [Discover Flask](https://github.com/realpython/discover-flask)
+    - [The Flask Mega Tutorial](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
+    - [Websites with Python Flask](http://opentechschool.github.io/python-flask/)
+
+## MOOC
+- Udacity
+    - [Intro to Computer Science](https://www.udacity.com/course/cs101)
+    - [Web Development](https://www.udacity.com/course/cs253)
+- Udemy
+    - [Automated Software Testing with Python](https://www.udemy.com/course/automated-software-testing-with-python/)
+    - [Automate the Boring Stuff with Python](https://www.udemy.com/course/automate/)
+    - [Coding for Entrepreneurs: Learn Django a Killer Python Framework](https://www.udemy.com/coding-for-entrepreneurs/)
+    - [Python and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/)
+    - [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/)
+    - [The Modern Python 3 Bootcamp](https://www.udemy.com/course/the-modern-python3-bootcamp/)
+- edX
+    - [Analytics in Python](https://www.edx.org/course/analytics-in-python)
+    - [Python for Data Science](https://www.edx.org/course/python-for-data-science)
+    - [Introduction to Python for Data Science](https://www.edx.org/course/introduction-to-python-for-data-science-1)
+    - [Introduction to programming using Python](https://www.edx.org/course/introduction-to-programming-using-python)
+## Developer Tools
+- [PythonAnywhere](https://www.pythonanywhere.com/)
+- [PyDev](http://pydev.org/)
+- [PyCharm](http://www.jetbrains.com/pycharm/)
+- [Flake8Lint](https://github.com/dreadatour/Flake8Lint)
+- [WingWare Python IDE](https://wingware.com/)
+- [Pytest](http://pytest.org/latest/)
+- [Mock](http://www.voidspace.org.uk/python/mock/)
+- [PyLint](http://www.pylint.org/)
+- [Scrapy](http://scrapy.org/)
+- [Robobrowser](http://robobrowser.readthedocs.org/en/latest/)
+- [PyGame](http://pygame.org/news.html)
+
+## Practice
+- [Codewars](http://www.codewars.com/)
+- [CodingBat](http://codingbat.com/python)
+- [Exercism](http://exercism.io/)
+- [CheckIO](http://www.checkio.org/)
+- [RobotGame](https://robotgame.net/home)
+- [HackerRank](https://www.hackerrank.com/domains)
+- [CodeEval](https://www.codeeval.com/dashboard/)
+- [EmpireOfCode](https://empireofcode.com/game/)
+
+## Tips
+  - [Creating An Asset Pipeline in Python](https://www.codementor.io/python/tutorial/creating-an-asset-pipeline-in-python-with-paver)
+  - [Caching Angular Partials with Python](https://www.codementor.io/python/tutorial/html-optimization-caching-angularjs-partials-templates)
+  - [How do I remove the first and last rows and columns from a 2D numpy array?](https://www.codementor.io/tips/2843378231/how-do-i-remove-the-first-and-last-rows-and-columns-from-a-2d-numpy-array)
+  - [How to check keys in two levels loop? ](https://www.codementor.io/tips/6813274333/how-to-check-keys-in-two-levels-loop)
+  - [Python array unpacking error: need more than 3 values ](https://www.codementor.io/tips/3317328246/python-array-unpacking-error-need-more-than-3-values)
+  - [scheduling events with a while loop and time.sleep](https://www.codementor.io/tips/1344523786/scheduling-events-with-a-while-loop-and-time-sleep)
+  - [Fetching an RSS feed and converting it into a json response](https://www.codementor.io/tips/3493772831/fetching-an-rss-feed-and-converting-it-into-a-json-response)
+  - [Opencv: display contours](https://www.codementor.io/tips/4930721378/opencv-display-contours)
+  - [Django form choices loaded from database are not updatedCan't figure out what's wrong with my method](https://www.codementor.io/tips/4933721348/can-t-figure-out-what-s-wrong-with-my-method)
+  - [Different initial values in a Django formset](https://www.codementor.io/tips/0731824832/different-initial-values-in-a-django-formset)
+  - [Why does python's struct think little-endian and big-endian imply different lengths?](https://www.codementor.io/tips/0818274433/why-does-python-s-struct-think-little-endian-and-big-endian-imply-different-lengths)
+  - [Comparing two class types in python](https://www.codementor.io/tips/6130438872/comparing-two-class-types-in-python)
+  - [How can I get Travis-CI to recognize and open external files during testing](https://www.codementor.io/tips/8102473038/how-can-i-get-travis-ci-to-recognize-and-open-external-files-during-testing)
+
+# Contributing to this repository
+
+if you find any useful resource you want to share with us just fork this repo and make your changes
